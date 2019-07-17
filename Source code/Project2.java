@@ -1,7 +1,8 @@
 /*
- * Name:		Katarina Capalbo n01399315
+ * Name:		Katarina Capalbo
+ * Student ID:		n01399315
  * Date:		6/7/2019
- * Assignment:	Project 2 Data Stuctures
+ * Assignment:		Project 2 Data Stuctures
  * 
  * Description: Read in an infix expression and convert to postfix using the Stack ADT. Assume that the infix expression 
  * that we read has no spaces at all between
