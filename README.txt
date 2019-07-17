@@ -18,4 +18,4 @@ Postfix notation is a notation for writing arithmetic expressions in which the o
 ****** EXPECTED OUTPUT *******
 3 columns will appear, the first column is the char in your infix expression string being evaluated, 
 the second column is the current postfix expression string, and the third column are the contents
-of the stack. Please see the "Expected Output" folder for screenshots of the expected output when running this program.
+of the stack. Please see the "Output Screenshots" folder for screenshots of the expected output when running this program.
